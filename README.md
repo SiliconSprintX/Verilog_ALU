@@ -275,9 +275,11 @@ Electronics and Communication Engineering (ECE)
 
 **Areas of Interest:** Digital Design • RTL Design • VLSI • ASIC Design • Functional Verification
 
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME/
+**GitHub:** https://github.com/SiliconSprintX
 
-**LinkedIn:** https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/
+**LinkedIn:** https://www.linkedin.com/in/saakshi-l
+
+
 
 ---
 
