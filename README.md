@@ -145,8 +145,17 @@ The testbench:
 
 - Verilog HDL
 - EDA Playground
-- 
+
 ---
+
+**Repository Structure**
+├── adder.v                    # Full Adder Sub-module
+├── Substractor.v              # Subtractor Sub-module
+├── comparator.v               # 1-bit Comparator Sub-module
+├── mux81.v                    # 8x1 Multiplexer for operation selection
+├── design code_top_module.v   # Top-level ALU Integration
+├── testbench.v                # Self-checking Testbench Environment
+└── README.md                  # Project Documentation
 
 ## 🛠️ Key Technologies
 
