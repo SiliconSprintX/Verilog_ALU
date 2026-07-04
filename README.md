@@ -278,7 +278,7 @@ This project was developed as part of my learning journey in **Digital Design** 
 
 ## 👩‍💻 Author
 
-**Saakshi Jenweri**
+**Saakshi**
 
 Electronics and Communication Engineering(ECE)
 
