@@ -271,7 +271,7 @@ This project was developed as part of my learning journey in **Digital Design** 
 
 **Saakshi Jenweri**
 
-Electronics and Communication Engineering (ECE)
+Electronics and Communication Engineering(ECE)
 
 **Areas of Interest:** Digital Design • RTL Design • VLSI • ASIC Design • Functional Verification
 
